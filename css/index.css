@@ -1,0 +1,15 @@
+.gallary{
+    display: inline-block;
+    padding: 10px;
+    width: 5px;
+    margin: 20px;
+    border-color: blueviolet;
+    background-color: blue;
+    
+
+    
+    
+    }
+.gallary:hover{
+    color: rgb(186, 30, 30);
+}
