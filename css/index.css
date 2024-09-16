@@ -2,14 +2,15 @@
     display: inline-block;
     padding: 10px;
     width: 5px;
+    height: 50px;
     margin: 20px;
     border-color: blueviolet;
-    background-color: blue;
+    background-color: rgb(11, 143, 70);
     
 
     
     
     }
 .gallary:hover{
-    color: rgb(186, 30, 30);
+    color: rgb(193, 64, 64);
 }
